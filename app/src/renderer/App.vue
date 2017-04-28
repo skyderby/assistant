@@ -1,5 +1,5 @@
 <template>
-  <div id="#app">
+  <div id='#app'>
     <router-view></router-view>
   </div>
 </template>
@@ -12,7 +12,7 @@
 </script>
 
 <style>
-  @import url(https://fonts.googleapis.com/css?family=Lato:300);
+
 
   * {
     margin: 0;
@@ -24,15 +24,10 @@
 
   body {
     align-items: center;
-    background:
-      radial-gradient(
-        ellipse at center,
-        rgba(255, 255, 255, 1) 0%,
-        rgba(229, 229, 229, .85) 100%
-      );
+    background: #f8f8f8;
     background-position: center;
     display: flex;
-    font-family: Lato, Helvetica, sans-serif;
+    font-family: 'Futura Normal';
     justify-content: center;
     text-align: center;
   }
