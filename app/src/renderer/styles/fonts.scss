@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'Futura Normal';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/fonts/futura/FuturaNormal.eot'); /* IE9 Compat Modes */
+	src: local('Futura Normal'), local('Futura Normal'),
+	url('/fonts/futura/FuturaNormal.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/fonts/futura/FuturaNormal.woff') format('woff'), /* Modern Browsers */
+	url('/fonts/futura/FuturaNormal.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('/fonts/futura/FuturaNormal.svg#FuturaNormal') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Futura Bold';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/fonts/futura/FuturaBold.eot'); /* IE9 Compat Modes */
+	src: local('Futura Bold'), local('Futura Bold'),
+	url('/fonts/futura/FuturaBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/fonts/futura/FuturaBold.woff') format('woff'), /* Modern Browsers */
+	url('/fonts/futura/FuturaBold.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('/fonts/futura/FuturaBold.svg#FuturaBold') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+	font-family: 'Futura Light';
+	font-style: normal;
+	font-weight: 300;
+	src: url('/fonts/futura/FuturaLight.eot'); /* IE9 Compat Modes */
+	src: local('Futura Light'), local('Futura Light'),
+	url('/fonts/futura/FuturaLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/fonts/futura/FuturaLight.woff') format('woff'), /* Modern Browsers */
+	url('/fonts/futura/FuturaLight.ttf') format('truetype'), /* Safari, Android, iOS */
+	url('/fonts/futura/FuturaLight.svg#FuturaLight') format('svg'); /* Legacy iOS */
+}

@@ -9,6 +9,6 @@
   }
 </script>
 
-<style scoped>
-h1 { color: red }
+<style lang="scss" scoped>
+  h1 { color: red }
 </style>

@@ -11,8 +11,10 @@
   }
 </script>
 
-<style>
+<style lang="scss">
 
+  @import './styles/globals';
+  @import './styles/fonts';
 
   * {
     margin: 0;
